@@ -1,5 +1,2 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
-{\fonttbl}
-{\colortbl;\red255\green255\blue255;}
-\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-}
+<h1> Bank Account </h1>
+This simple python script lets you create a virtual bank account with initial funds and withdraw only available credit.
